@@ -129,8 +129,8 @@
                     "payload_bin": "T3V0Ym91bmQgVHJhbnNmZXIgb2YgU2Vuc2l0aXZlIERhdGEgKFBJSSkJT3V0Ym91bmQgZmxvdyBkZXRlY3RlZCBjb250YWluaW5nIHN1c3BlY3QgY29udGVuOiBlbnRpdHkgYWxlcnQ="
                 }
             },
-            "first_observed": "2021-08-27T16:13:41.000Z",
-            "last_observed": "2031-08-27T15:49:50.000Z",
+            "first_observed": "2022-01-09T16:13:41.000Z",
+            "last_observed": "2022-01-09T15:49:50.000Z",
             "number_observed": 1
         },
         {
@@ -180,7 +180,7 @@
                 "2": {
                     "type": "x-ibm-finding",
                     "start": "2022-01-09T16:13:41.000Z",
-                    "end": "2021-01-09T16:13:41.000Z",
+                    "end": "2022-01-09T16:13:41.000Z",
                     "src_ip_ref": "3",
                     "dst_ip_ref": "7",
                     "event_count": 1,
